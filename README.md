@@ -1,2 +1,2 @@
 # spark-streaming-kafka
-Emodenet platform streaming
+Rest API platform streaming application
